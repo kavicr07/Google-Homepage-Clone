@@ -1,0 +1,42 @@
+.Main {
+    margin-top:100px;
+}
+.button-container {
+    display:flex;
+    justify-content: center;
+}
+.button {
+    display:block;
+    margin-top: 20px;
+    margin-right:10px;
+    margin-left:10px;
+    padding-top:8px;
+    padding-right:16px;
+    padding-bottom:8px;
+    padding-left:16px;
+    border-radius:4px;
+    border-color: rgb(46, 47, 48);
+    background-color: dfe1e5;
+    border:2px;
+    cursor: pointer;
+}
+
+.box {
+    width: 400px;
+    display: block;
+    margin-right:auto;
+    margin-left:auto;
+    border-radius: 24px;
+    border: 1px solid #dfe6e9;
+    padding: 10px 30px 10px 30px;
+    height: 24px;
+    cursor:text;
+}
+.logo {
+    display: block;
+    width: 300px;
+    margin-bottom: 20px;
+    margin-top: 100px;
+    margin-right:auto;
+    margin-left:auto;
+}
